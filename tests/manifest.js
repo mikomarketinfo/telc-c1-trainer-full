@@ -40,7 +40,7 @@ var TESTS_MANIFEST = [
   {id:"lv3d", type:"Leseverstehen Teil 3", title:"Die Spielzeugindustrie im Wandel",         desc:"11+1 · C1",      file:"tests/test-lv3d.js"},
   {id:"lv3e", type:"Leseverstehen Teil 3", title:"Sabbatical — Auszeit vom Beruf",           desc:"11+1 · C1",      file:"tests/test-lv3e.js"},
   {id:"lv3f", type:"Leseverstehen Teil 3", title:"Alter ist nicht gleich Alter",             desc:"11+1 · C1",      file:"tests/test-lv3f.js"},
-  {id:"lv3g", type:"Leseverstehen Teil 3", title:"Macht Reisen wirklich glücklich?",         desc:"11+1 · C1",      file:"tests/test-lv3g.js"}
+  {id:"lv3g", type:"Leseverstehen Teil 3", title:"Macht Reisen wirklich glücklich?",         desc:"11+1 · C1",      file:"tests/test-lv3g.js"},
 
   // ── NEU BATCH 2 ─────────────────────────────────────────────
   {id:"lv2f", type:"Leseverstehen Teil 2", title:"Du bist, was du isst",                     desc:"6 Fragen · C1",  file:"tests/test-lv2f.js"},
