@@ -52,7 +52,24 @@ var TESTS_MANIFEST = [
   {id:"lv1j", type:"Leseverstehen Teil 1", title:"Höhlenforschung: Expeditionen ins Erdinnere", desc:"6 Lücken · C1",  file:"tests/test-lv1j.js"},
   {id:"lv2g", type:"Leseverstehen Teil 2", title:'Dann geh doch zu Fuß, Schatz!',             desc:"6 Fragen · C1",  file:"tests/test-lv2g.js"},
   {id:"lv3i", type:"Leseverstehen Teil 3", title:"Zweisprachig aufwachsen — Fluch oder Segen?", desc:"11+1 · C1",    file:"tests/test-lv3i.js"},
-  {id:"sb5",  type:"Sprachbausteine",      title:"Plastik im Ozean — ein globales Problem",   desc:"22 Lücken · C1", file:"tests/test-sb5.js"}
+  {id:"sb5",  type:"Sprachbausteine",      title:"Plastik im Ozean — ein globales Problem",   desc:"22 Lücken · C1", file:"tests/test-sb5.js"},
+
+  // ── NEU BATCH 4 ─────────────────────────────────────────────
+  {id:"lv1k", type:"Leseverstehen Teil 1", title:"Auf Goldsuche in Deutschland",              desc:"6 Lücken · C1",  file:"tests/test-lv1k.js"},
+  {id:"lv2h", type:"Leseverstehen Teil 2", title:"Hirndoping an deutschen Hochschulen",       desc:"6 Fragen · C1",  file:"tests/test-lv2h.js"},
+  {id:"lv3j", type:"Leseverstehen Teil 3", title:"Haben Navis unser Gehirn verändert?",       desc:"11+1 · C1",      file:"tests/test-lv3j.js"},
+  {id:"sb6",  type:"Sprachbausteine",      title:"E-Learning an deutschen Hochschulen",       desc:"22 Lücken · C1", file:"tests/test-sb6.js"},
+
+  // ── NEU BATCH 5 ─────────────────────────────────────────────
+  {id:"lv1l", type:"Leseverstehen Teil 1", title:"Der Lift — eine Würdigung",                 desc:"6 Lücken · C1",  file:"tests/test-lv1l.js"},
+  {id:"lv2i", type:"Leseverstehen Teil 2", title:"Helikopter-Eltern — zu viel Fürsorge",      desc:"6 Fragen · C1",  file:"tests/test-lv2i.js"},
+  {id:"lv3k", type:"Leseverstehen Teil 3", title:"Geisteswissenschaften — ein Studium ohne Zukunft?", desc:"11+1 · C1", file:"tests/test-lv3k.js"},
+  {id:"sb7",  type:"Sprachbausteine",      title:"Schlaftypen: Eulen und Lerchen",            desc:"22 Lücken · C1", file:"tests/test-sb7.js"},
+
+  // ── NEU BATCH 6 (FINAL) ─────────────────────────────────────
+  {id:"lv1m", type:"Leseverstehen Teil 1", title:"Wie Zimmerpflanzen das Wohnzimmer eroberten", desc:"6 Lücken · C1",  file:"tests/test-lv1m.js"},
+  {id:"lv2j", type:"Leseverstehen Teil 2", title:"Abschlussarbeiten — Sinn oder Unsinn?",       desc:"6 Fragen · C1",  file:"tests/test-lv2j.js"},
+  {id:"lv3l", type:"Leseverstehen Teil 3", title:"Kleingärten — grüne Oasen in der Stadt",      desc:"11+1 · C1",      file:"tests/test-lv3l.js"}
 
   // ── NEUE TESTS HIER HINZUFÜGEN ───────────────────────────────
   // Kopiere eine Zeile oben, ändere id/title/desc/file, speichere.
